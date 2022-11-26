@@ -1,5 +1,7 @@
 # appWeb
 
+Proyecto base AdonisJS (Autenticación WEB - CRUD)
+
 Pasos:
 
 1. git clone https://github.com/jfinfocesde/appWeb.git
